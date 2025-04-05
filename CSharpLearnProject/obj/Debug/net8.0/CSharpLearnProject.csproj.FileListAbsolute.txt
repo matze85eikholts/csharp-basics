@@ -1,0 +1,14 @@
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\CSharpLearnProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\CSharpLearnProject.AssemblyInfoInputs.cache
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\CSharpLearnProject.AssemblyInfo.cs
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\CSharpLearnProject.csproj.CoreCompileInputs.cache
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\bin\Debug\net8.0\CSharpLearnProject.exe
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\bin\Debug\net8.0\CSharpLearnProject.deps.json
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\bin\Debug\net8.0\CSharpLearnProject.runtimeconfig.json
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\bin\Debug\net8.0\CSharpLearnProject.dll
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\bin\Debug\net8.0\CSharpLearnProject.pdb
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\CSharpLearnProject.dll
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\refint\CSharpLearnProject.dll
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\CSharpLearnProject.pdb
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\CSharpLearnProject.genruntimeconfig.cache
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\ref\CSharpLearnProject.dll
