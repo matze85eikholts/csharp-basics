@@ -12,3 +12,4 @@ C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8
 C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\CSharpLearnProject.pdb
 C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\CSharpLearnProject.genruntimeconfig.cache
 C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\ref\CSharpLearnProject.dll
+C:\Users\matze\source\repos\CSharpLearnProject\CSharpLearnProject\obj\Debug\net8.0\CSharpLearnProject.sourcelink.json

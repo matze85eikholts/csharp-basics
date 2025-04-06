@@ -23,6 +23,9 @@ namespace CSharpLearnProject
         }
 
         // Метод для вывода информации о человеке
+        public int Sum(int a, int b)
+            { return a + b; }
+
         public void DisplayInfo()
         {
             Console.WriteLine($"Name: {Name}, Age: {Age}");
