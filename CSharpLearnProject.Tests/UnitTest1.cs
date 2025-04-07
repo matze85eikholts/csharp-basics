@@ -20,6 +20,17 @@ namespace CSharpLearnProject.Tests
 
             // Assert
             Assert.Equal(15, result);
+
+            a = -10;
+            b = 10;
+            //result = person.Sum(a, b);
+            Assert.Equal(0, result);
+
+            a = 10;
+            b = 2;
+            result = person.Divide(a, b);
+            Assert.Equal(5, result);
+
         }
 
     }

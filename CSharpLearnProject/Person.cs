@@ -26,6 +26,9 @@ namespace CSharpLearnProject
         public int Sum(int a, int b)
             { return a + b; }
 
+        public int Divide(int a, int b) { 
+            return a / b;
+        }
         public void DisplayInfo()
         {
             Console.WriteLine($"Name: {Name}, Age: {Age}");

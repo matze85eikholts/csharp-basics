@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +32,7 @@
               "RelativeDocumentMoniker": "CSharpLearnProject.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject.Tests\\UnitTest1.cs*",
               "RelativeToolTip": "CSharpLearnProject.Tests\\UnitTest1.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T02:20:32.036Z",
               "EditorCaption": ""
@@ -47,9 +43,9 @@
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Person.cs",
               "RelativeDocumentMoniker": "CSharpLearnProject\\Person.cs",
-              "ToolTip": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Person.cs",
-              "RelativeToolTip": "CSharpLearnProject\\Person.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Person.cs*",
+              "RelativeToolTip": "CSharpLearnProject\\Person.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T02:31:27.329Z",
               "EditorCaption": ""
@@ -64,8 +60,11 @@
               "RelativeToolTip": "CSharpLearnProject\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T02:13:46.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T02:13:46.551Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
