@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{537D2C63-6856-45A4-9777-08D32A671688}|CSharpLearnProject\\CSharpLearnProject.csproj|c:\\users\\matze\\source\\repos\\csharplearnproject\\csharplearnproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537D2C63-6856-45A4-9777-08D32A671688}|CSharpLearnProject\\CSharpLearnProject.csproj|solutionrelative:csharplearnproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537D2C63-6856-45A4-9777-08D32A671688}|CSharpLearnProject\\CSharpLearnProject.csproj|c:\\users\\matze\\source\\repos\\csharplearnproject\\csharplearnproject\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537D2C63-6856-45A4-9777-08D32A671688}|CSharpLearnProject\\CSharpLearnProject.csproj|solutionrelative:csharplearnproject\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{537D2C63-6856-45A4-9777-08D32A671688}|CSharpLearnProject\\CSharpLearnProject.csproj|c:\\users\\matze\\source\\repos\\csharplearnproject\\csharplearnproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{537D2C63-6856-45A4-9777-08D32A671688}|CSharpLearnProject\\CSharpLearnProject.csproj|solutionrelative:csharplearnproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{537D2C63-6856-45A4-9777-08D32A671688}|CSharpLearnProject\\CSharpLearnProject.csproj|c:\\users\\matze\\source\\repos\\csharplearnproject\\csharplearnproject\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{537D2C63-6856-45A4-9777-08D32A671688}|CSharpLearnProject\\CSharpLearnProject.csproj|solutionrelative:csharplearnproject\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{537D2C63-6856-45A4-9777-08D32A671688}|CSharpLearnProject\\CSharpLearnProject.csproj|c:\\users\\matze\\source\\repos\\csharplearnproject\\csharplearnproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{537D2C63-6856-45A4-9777-08D32A671688}|CSharpLearnProject\\CSharpLearnProject.csproj|solutionrelative:csharplearnproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{537D2C63-6856-45A4-9777-08D32A671688}|CSharpLearnProject\\CSharpLearnProject.csproj|c:\\users\\matze\\source\\repos\\csharplearnproject\\csharplearnproject\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,16 +34,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Teacher.cs",
+              "RelativeDocumentMoniker": "CSharpLearnProject\\Teacher.cs",
+              "ToolTip": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Teacher.cs",
+              "RelativeToolTip": "CSharpLearnProject\\Teacher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:02:22.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Student.cs",
               "RelativeDocumentMoniker": "CSharpLearnProject\\Student.cs",
-              "ToolTip": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Student.cs*",
-              "RelativeToolTip": "CSharpLearnProject\\Student.cs*",
+              "ToolTip": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Student.cs",
+              "RelativeToolTip": "CSharpLearnProject\\Student.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T14:57:13.97Z",
@@ -47,20 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IPerson.cs",
               "DocumentMoniker": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\IPerson.cs",
               "RelativeDocumentMoniker": "CSharpLearnProject\\IPerson.cs",
               "ToolTip": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\IPerson.cs",
               "RelativeToolTip": "CSharpLearnProject\\IPerson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T14:50:26.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "CSharpLearnProject.Tests\\UnitTest1.cs",
@@ -68,12 +85,11 @@
               "RelativeToolTip": "CSharpLearnProject.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T02:20:32.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T02:20:32.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Person.cs",
               "RelativeDocumentMoniker": "CSharpLearnProject\\Person.cs",
@@ -81,18 +97,17 @@
               "RelativeToolTip": "CSharpLearnProject\\Person.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAwwBEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T02:31:27.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T02:31:27.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Program.cs",
               "RelativeDocumentMoniker": "CSharpLearnProject\\Program.cs",
-              "ToolTip": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Program.cs",
-              "RelativeToolTip": "CSharpLearnProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\matze\\source\\repos\\CSharpLearnProject\\CSharpLearnProject\\Program.cs*",
+              "RelativeToolTip": "CSharpLearnProject\\Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T02:13:46.551Z",
               "EditorCaption": ""

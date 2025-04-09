@@ -27,5 +27,7 @@ public class MainClass {
         Person person2 = new Person("Alice", 30);
         Console.WriteLine("\nUsing parameterized constructor:");
         person2.DisplayInfo();
+        IPerson teacher = new Teacher("Ivan", "Ivanov");
+        teacher.Introduce();
     }
 }
