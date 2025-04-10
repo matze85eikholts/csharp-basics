@@ -4,6 +4,7 @@
 
 using System;
 using CSharpLearnProject;
+using CSharpLearnProject.dependency_injection;
 
 public class MainClass {
 
@@ -29,5 +30,14 @@ public class MainClass {
         person2.DisplayInfo();
         IPerson teacher = new Teacher("Ivan", "Ivanov");
         teacher.Introduce();
+
+        // Создаём экземпляр собаки
+        var dog = new Dog("Барон");
+
+        // Внедряем собаку в хозяина через конструктор
+        var owner = new Owner(dog);
+
+        // Хозяин зовёт собаку
+        owner.CallDog();
     }
 }
