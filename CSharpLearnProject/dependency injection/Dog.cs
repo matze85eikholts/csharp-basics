@@ -8,7 +8,7 @@ namespace CSharpLearnProject.dependency_injection
 {
     public class Dog
     {
-        public string Name { get; }
+        public string Name { get; set; }
 
         public Dog(string name)
         {

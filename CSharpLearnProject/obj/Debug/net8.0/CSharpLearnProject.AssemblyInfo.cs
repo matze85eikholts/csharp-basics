@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpLearnProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+497832723312b451b82ebdd35fefc6a01a5e066a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+360aa7090a36f254c62b7e65a97caece881550d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpLearnProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpLearnProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
