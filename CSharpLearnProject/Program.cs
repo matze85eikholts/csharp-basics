@@ -5,6 +5,7 @@
 using System;
 using CSharpLearnProject;
 using CSharpLearnProject.dependency_injection;
+using CSharpLearnProject.object_oriented_programming;
 
 public class MainClass {
 
@@ -36,6 +37,9 @@ public class MainClass {
 
         // Внедряем собаку в хозяина через конструктор
         var owner = new Owner(dog);
+
+        Animal cat = new Cat("Mursik");
+        cat.MakeSound();
 
         // Хозяин зовёт собаку
         owner.CallDog();
