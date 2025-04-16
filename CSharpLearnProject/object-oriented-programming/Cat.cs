@@ -23,7 +23,7 @@ namespace CSharpLearnProject.object_oriented_programming
         }
         public override void MakeSound()
         {
-            this.Meow();//throw new NotImplementedException();
+            Meow();//throw new NotImplementedException();
         }
     }
 }
